@@ -1,0 +1,10 @@
+import this - infa about fine code
+type(x)
+dir(x)
+y = int(y)
+round(x)
+input()
+python -> вход в интерактивный режим в теминале 
+Ctrl + Z -> выход из интерактивного режима
+PEP8 свод правил на питоне
+range(start, stop, step)
